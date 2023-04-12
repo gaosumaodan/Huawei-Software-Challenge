@@ -1,0 +1,20 @@
+{
+    "tasks": [
+      {
+        "type": "cppbuild",
+        "label": "C/C++: g++.exe build active file",
+        "command": "D:/fb/mingw64/bin/g++.exe",//改路径！！！！！改你的mingw路径
+        "args": ["-g", "${file}", "-o", "${fileDirname}\\${fileBasenameNoExtension}.exe"],
+        "options": {
+          "cwd": "${fileDirname}"
+        },
+        "problemMatcher": ["$gcc"],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        },
+        "detail": "compiler: D:/fb/mingw64/bin/g++.exe"//改路径！！！！！改你的mingw路径
+      }
+    ],
+    "version": "2.0.0"
+  }

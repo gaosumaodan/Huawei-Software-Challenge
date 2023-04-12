@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/fb/ruantiao/WindowsRelease/SDK/c++/build",
+  "command": "D:\\fb\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\main.dir\\main.cpp.obj -c D:\\fb\\ruantiao\\WindowsRelease\\SDK\\c++\\main.cpp",
+  "file": "D:/fb/ruantiao/WindowsRelease/SDK/c++/main.cpp"
+}
+]
